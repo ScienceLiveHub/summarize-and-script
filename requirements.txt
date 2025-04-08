@@ -1,0 +1,9 @@
+transformers
+pdfminer.six
+goose3
+keybert
+sentence-transformers
+torch
+scikit-learn
+PyPDF2
+hf_xet
